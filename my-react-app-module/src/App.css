@@ -1,0 +1,14 @@
+*{
+  text-align: center;
+  color: blanchedalmond;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+#root{
+  background-color: black;
+}
+button{
+  color: black;
+  background-color: blanchedalmond;
+  border: blanchedalmond;
+}
