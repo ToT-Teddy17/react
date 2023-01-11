@@ -7,7 +7,11 @@ export default function User(){
     let user=userList[index];
     return(
         <div>
-            <button onClick={()=>{setIndex(index+1)}}>Next</button>
+            <button onClick={(
+                
+            )=>{
+            setmemo(userList[index+1].name)
+            setIndex(index+1)}}>Next</button>
             <p>{user.name}</p>
             <input value={memo}/>
         </div>
